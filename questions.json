@@ -1,0 +1,1718 @@
+[
+  {
+    "id": 1,
+    "en": "ability",
+    "zh": "能力",
+    "acceptedEn": ["ability"]
+  },
+  {
+    "id": 2,
+    "en": "abnormal",
+    "zh": "異常的",
+    "acceptedEn": ["abnormal"]
+  },
+  {
+    "id": 3,
+    "en": "abort",
+    "zh": "中止",
+    "acceptedEn": ["abort"]
+  },
+  {
+    "id": 4,
+    "en": "absence",
+    "zh": "缺席",
+    "acceptedEn": ["absence"]
+  },
+  {
+    "id": 5,
+    "en": "acid",
+    "zh": "酸",
+    "acceptedEn": ["acid"]
+  },
+  {
+    "id": 6,
+    "en": "active",
+    "zh": "主動的",
+    "acceptedEn": ["active"]
+  },
+  {
+    "id": 7,
+    "en": "actual",
+    "zh": "真實的",
+    "acceptedEn": ["actual"]
+  },
+  {
+    "id": 8,
+    "en": "add",
+    "zh": "增加",
+    "acceptedEn": ["add"]
+  },
+  {
+    "id": 9,
+    "en": "adjust",
+    "zh": "调整",
+    "acceptedEn": ["adjust"]
+  },
+  {
+    "id": 10,
+    "en": "AI",
+    "zh": "人工智慧",
+    "acceptedEn": ["AI"]
+  },
+  {
+    "id": 11,
+    "en": "air shower",
+    "zh": "潔淨通道",
+    "acceptedEn": ["air shower"]
+  },
+  {
+    "id": 12,
+    "en": "alarm",
+    "zh": "警報",
+    "acceptedEn": ["alarm", "alert"]
+  },
+  {
+    "id": 13,
+    "en": "alert",
+    "zh": "警報",
+    "acceptedEn": ["alarm", "alert"]
+  },
+  {
+    "id": 14,
+    "en": "area",
+    "zh": "區域",
+    "acceptedEn": ["area"]
+  },
+  {
+    "id": 15,
+    "en": "align",
+    "zh": "對焦",
+    "acceptedEn": ["align"]
+  },
+  {
+    "id": 16,
+    "en": "attach",
+    "zh": "附上",
+    "acceptedEn": ["attach"]
+  },
+  {
+    "id": 17,
+    "en": "annually",
+    "zh": "每年的",
+    "acceptedEn": ["annually"]
+  },
+  {
+    "id": 18,
+    "en": "audit",
+    "zh": "稽核、查核",
+    "acceptedEn": ["audit"]
+  },
+  {
+    "id": 19,
+    "en": "automatic",
+    "zh": "自動的",
+    "acceptedEn": ["automatic"]
+  },
+  {
+    "id": 20,
+    "en": "automotive",
+    "zh": "汽車的",
+    "acceptedEn": ["automotive"]
+  },
+  {
+    "id": 21,
+    "en": "available",
+    "zh": "可使用的",
+    "acceptedEn": ["available"]
+  },
+  {
+    "id": 22,
+    "en": "average",
+    "zh": "平均",
+    "acceptedEn": ["average"]
+  },
+  {
+    "id": 23,
+    "en": "backup",
+    "zh": "支援",
+    "acceptedEn": ["backup", "support"]
+  },
+  {
+    "id": 24,
+    "en": "bank",
+    "zh": "銀行(v.)暫存",
+    "acceptedEn": ["bank"]
+  },
+  {
+    "id": 25,
+    "en": "basic",
+    "zh": "基礎的",
+    "acceptedEn": ["basic"]
+  },
+  {
+    "id": 26,
+    "en": "bottom",
+    "zh": "底部",
+    "acceptedEn": ["bottom"]
+  },
+  {
+    "id": 27,
+    "en": "beam",
+    "zh": "光束",
+    "acceptedEn": ["beam"]
+  },
+  {
+    "id": 28,
+    "en": "broken",
+    "zh": "破掉的",
+    "acceptedEn": ["broken"]
+  },
+  {
+    "id": 29,
+    "en": "benchmark",
+    "zh": "標竿學習",
+    "acceptedEn": ["benchmark"]
+  },
+  {
+    "id": 30,
+    "en": "bottle",
+    "zh": "瓶子",
+    "acceptedEn": ["bottle"]
+  },
+  {
+    "id": 31,
+    "en": "cancel",
+    "zh": "取消",
+    "acceptedEn": ["cancel"]
+  },
+  {
+    "id": 32,
+    "en": "card",
+    "zh": "卡片",
+    "acceptedEn": ["card"]
+  },
+  {
+    "id": 33,
+    "en": "cart",
+    "zh": "手推車",
+    "acceptedEn": ["cart"]
+  },
+  {
+    "id": 34,
+    "en": "cassette",
+    "zh": "晶片專用盒",
+    "acceptedEn": ["cassette"]
+  },
+  {
+    "id": 35,
+    "en": "center",
+    "zh": "中心",
+    "acceptedEn": ["center"]
+  },
+  {
+    "id": 36,
+    "en": "certify",
+    "zh": "證實、認證",
+    "acceptedEn": ["certify"]
+  },
+  {
+    "id": 37,
+    "en": "change",
+    "zh": "更換",
+    "acceptedEn": ["change"]
+  },
+  {
+    "id": 38,
+    "en": "chart",
+    "zh": "图表",
+    "acceptedEn": ["chart"]
+  },
+  {
+    "id": 39,
+    "en": "check",
+    "zh": "检查",
+    "acceptedEn": ["check"]
+  },
+  {
+    "id": 40,
+    "en": "copy",
+    "zh": "拷貝",
+    "acceptedEn": ["copy"]
+  },
+  {
+    "id": 41,
+    "en": "chemical",
+    "zh": "化學、化學品",
+    "acceptedEn": ["chemical"]
+  },
+  {
+    "id": 42,
+    "en": "count",
+    "zh": "計算",
+    "acceptedEn": ["count"]
+  },
+  {
+    "id": 43,
+    "en": "chip",
+    "zh": "晶片",
+    "acceptedEn": ["chip"]
+  },
+  {
+    "id": 44,
+    "en": "choose",
+    "zh": "挑選",
+    "acceptedEn": ["choose"]
+  },
+  {
+    "id": 45,
+    "en": "customer",
+    "zh": "客戶",
+    "acceptedEn": ["customer"]
+  },
+  {
+    "id": 46,
+    "en": "clean",
+    "zh": "清潔",
+    "acceptedEn": ["clean"]
+  },
+  {
+    "id": 47,
+    "en": "clean chamber",
+    "zh": "潔淨室",
+    "acceptedEn": ["clean chamber"]
+  },
+  {
+    "id": 48,
+    "en": "cycle",
+    "zh": "週期",
+    "acceptedEn": ["cycle"]
+  },
+  {
+    "id": 49,
+    "en": "clear",
+    "zh": "清除",
+    "acceptedEn": ["clear", "purge"]
+  },
+  {
+    "id": 50,
+    "en": "daily",
+    "zh": "每日的",
+    "acceptedEn": ["daily"]
+  },
+  {
+    "id": 51,
+    "en": "cycle time",
+    "zh": "生產週期",
+    "acceptedEn": ["cycle time"]
+  },
+  {
+    "id": 52,
+    "en": "collect",
+    "zh": "蒐集",
+    "acceptedEn": ["collect"]
+  },
+  {
+    "id": 53,
+    "en": "data",
+    "zh": "資料",
+    "acceptedEn": ["data"]
+  },
+  {
+    "id": 54,
+    "en": "color",
+    "zh": "顏色",
+    "acceptedEn": ["color"]
+  },
+  {
+    "id": 55,
+    "en": "date",
+    "zh": "日期",
+    "acceptedEn": ["date"]
+  },
+  {
+    "id": 56,
+    "en": "comment",
+    "zh": "評論",
+    "acceptedEn": ["comment"]
+  },
+  {
+    "id": 57,
+    "en": "decline",
+    "zh": "減少",
+    "acceptedEn": ["decline"]
+  },
+  {
+    "id": 58,
+    "en": "company",
+    "zh": "公司",
+    "acceptedEn": ["company"]
+  },
+  {
+    "id": 59,
+    "en": "defect",
+    "zh": "缺陷",
+    "acceptedEn": ["defect"]
+  },
+  {
+    "id": 60,
+    "en": "control",
+    "zh": "控制",
+    "acceptedEn": ["control"]
+  },
+  {
+    "id": 61,
+    "en": "contamination",
+    "zh": "污染",
+    "acceptedEn": ["contamination"]
+  },
+  {
+    "id": 62,
+    "en": "complete",
+    "zh": "完成",
+    "acceptedEn": ["complete"]
+  },
+  {
+    "id": 63,
+    "en": "continue",
+    "zh": "繼續",
+    "acceptedEn": ["continue"]
+  },
+  {
+    "id": 64,
+    "en": "delay",
+    "zh": "延遲",
+    "acceptedEn": ["delay"]
+  },
+  {
+    "id": 65,
+    "en": "computer",
+    "zh": "電腦",
+    "acceptedEn": ["computer"]
+  },
+  {
+    "id": 66,
+    "en": "concern",
+    "zh": "擔憂",
+    "acceptedEn": ["concern"]
+  },
+  {
+    "id": 67,
+    "en": "confirm",
+    "zh": "確認",
+    "acceptedEn": ["confirm"]
+  },
+  {
+    "id": 68,
+    "en": "confidential",
+    "zh": "機密的",
+    "acceptedEn": ["confidential"]
+  },
+  {
+    "id": 69,
+    "en": "delete",
+    "zh": "删除",
+    "acceptedEn": ["delete"]
+  },
+  {
+    "id": 70,
+    "en": "diffusion",
+    "zh": "擴散製程",
+    "acceptedEn": ["diffusion"]
+  },
+  {
+    "id": 71,
+    "en": "document",
+    "zh": "文件",
+    "acceptedEn": ["document"]
+  },
+  {
+    "id": 72,
+    "en": "dry",
+    "zh": "乾的",
+    "acceptedEn": ["dry"]
+  },
+  {
+    "id": 73,
+    "en": "emergency",
+    "zh": "緊急情況",
+    "acceptedEn": ["emergency"]
+  },
+  {
+    "id": 74,
+    "en": "emergency stop",
+    "zh": "緊急停止",
+    "acceptedEn": ["emergency stop"]
+  },
+  {
+    "id": 75,
+    "en": "engineer",
+    "zh": "工程師",
+    "acceptedEn": ["engineer"]
+  },
+  {
+    "id": 76,
+    "en": "enhance",
+    "zh": "增進",
+    "acceptedEn": ["enhance"]
+  },
+  {
+    "id": 77,
+    "en": "enter",
+    "zh": "進入",
+    "acceptedEn": ["enter"]
+  },
+  {
+    "id": 78,
+    "en": "gloves",
+    "zh": "手套",
+    "acceptedEn": ["gloves"]
+  },
+  {
+    "id": 79,
+    "en": "environment",
+    "zh": "環境",
+    "acceptedEn": ["environment"]
+  },
+  {
+    "id": 80,
+    "en": "grade",
+    "zh": "等級",
+    "acceptedEn": ["grade"]
+  },
+  {
+    "id": 81,
+    "en": "equipment",
+    "zh": "設備",
+    "acceptedEn": ["equipment"]
+  },
+  {
+    "id": 82,
+    "en": "green",
+    "zh": "綠色",
+    "acceptedEn": ["green"]
+  },
+  {
+    "id": 83,
+    "en": "error",
+    "zh": "错誤",
+    "acceptedEn": ["error"]
+  },
+  {
+    "id": 84,
+    "en": "group",
+    "zh": "群組",
+    "acceptedEn": ["group"]
+  },
+  {
+    "id": 85,
+    "en": "etching",
+    "zh": "蝕刻製程",
+    "acceptedEn": ["etching"]
+  },
+  {
+    "id": 86,
+    "en": "handle",
+    "zh": "處理",
+    "acceptedEn": ["handle"]
+  },
+  {
+    "id": 87,
+    "en": "hard-disk",
+    "zh": "硬盤 極紫外光",
+    "acceptedEn": ["hard-disk"]
+  },
+  {
+    "id": 88,
+    "en": "event",
+    "zh": "事件",
+    "acceptedEn": ["event"]
+  },
+  {
+    "id": 89,
+    "en": "heavy",
+    "zh": "重的",
+    "acceptedEn": ["heavy"]
+  },
+  {
+    "id": 90,
+    "en": "execute",
+    "zh": "執行",
+    "acceptedEn": ["execute"]
+  },
+  {
+    "id": 91,
+    "en": "helmet",
+    "zh": "安全帽",
+    "acceptedEn": ["helmet"]
+  },
+  {
+    "id": 92,
+    "en": "exit",
+    "zh": "退出",
+    "acceptedEn": ["exit"]
+  },
+  {
+    "id": 93,
+    "en": "help",
+    "zh": "幫助",
+    "acceptedEn": ["help"]
+  },
+  {
+    "id": 94,
+    "en": "fault",
+    "zh": "錯誤",
+    "acceptedEn": ["fault"]
+  },
+  {
+    "id": 95,
+    "en": "hold",
+    "zh": "暫停",
+    "acceptedEn": ["hold"]
+  },
+  {
+    "id": 96,
+    "en": "find",
+    "zh": "發現",
+    "acceptedEn": ["find"]
+  },
+  {
+    "id": 97,
+    "en": "hole",
+    "zh": "孔、洞",
+    "acceptedEn": ["hole"]
+  },
+  {
+    "id": 98,
+    "en": "floor",
+    "zh": "地板",
+    "acceptedEn": ["floor"]
+  },
+  {
+    "id": 99,
+    "en": "hot",
+    "zh": "熱的",
+    "acceptedEn": ["hot"]
+  },
+  {
+    "id": 100,
+    "en": "focus",
+    "zh": "焦點",
+    "acceptedEn": ["focus"]
+  },
+  {
+    "id": 101,
+    "en": "impact",
+    "zh": "影響",
+    "acceptedEn": ["impact"]
+  },
+  {
+    "id": 102,
+    "en": "follow",
+    "zh": "照做、跟随",
+    "acceptedEn": ["follow"]
+  },
+  {
+    "id": 103,
+    "en": "improve",
+    "zh": "改善",
+    "acceptedEn": ["improve"]
+  },
+  {
+    "id": 104,
+    "en": "freeze",
+    "zh": "凍結",
+    "acceptedEn": ["freeze"]
+  },
+  {
+    "id": 105,
+    "en": "inform",
+    "zh": "通知",
+    "acceptedEn": ["inform", "notice"]
+  },
+  {
+    "id": 106,
+    "en": "full",
+    "zh": "滿的",
+    "acceptedEn": ["full"]
+  },
+  {
+    "id": 107,
+    "en": "information",
+    "zh": "資訊",
+    "acceptedEn": ["information"]
+  },
+  {
+    "id": 108,
+    "en": "function",
+    "zh": "功能",
+    "acceptedEn": ["function"]
+  },
+  {
+    "id": 109,
+    "en": "inhibition",
+    "zh": "禁止禁用",
+    "acceptedEn": ["inhibition"]
+  },
+  {
+    "id": 110,
+    "en": "gas",
+    "zh": "氣體",
+    "acceptedEn": ["gas"]
+  },
+  {
+    "id": 111,
+    "en": "input",
+    "zh": "輸入",
+    "acceptedEn": ["input"]
+  },
+  {
+    "id": 112,
+    "en": "glass",
+    "zh": "玻璃、鏡片",
+    "acceptedEn": ["glass"]
+  },
+  {
+    "id": 113,
+    "en": "inspect",
+    "zh": "檢查",
+    "acceptedEn": ["inspect"]
+  },
+  {
+    "id": 114,
+    "en": "inspection",
+    "zh": "檢驗",
+    "acceptedEn": ["inspection"]
+  },
+  {
+    "id": 115,
+    "en": "instruction",
+    "zh": "指令",
+    "acceptedEn": ["instruction"]
+  },
+  {
+    "id": 116,
+    "en": "load",
+    "zh": "上貨、裝載",
+    "acceptedEn": ["load"]
+  },
+  {
+    "id": 117,
+    "en": "internet",
+    "zh": "網際網路",
+    "acceptedEn": ["internet"]
+  },
+  {
+    "id": 118,
+    "en": "loading",
+    "zh": "負荷",
+    "acceptedEn": ["loading"]
+  },
+  {
+    "id": 119,
+    "en": "interview",
+    "zh": "面試",
+    "acceptedEn": ["interview"]
+  },
+  {
+    "id": 120,
+    "en": "lobby",
+    "zh": "大廳",
+    "acceptedEn": ["lobby"]
+  },
+  {
+    "id": 121,
+    "en": "issue",
+    "zh": "發行(n.)議題",
+    "acceptedEn": ["issue"]
+  },
+  {
+    "id": 122,
+    "en": "location",
+    "zh": "位置",
+    "acceptedEn": ["location", "position"]
+  },
+  {
+    "id": 123,
+    "en": "job",
+    "zh": "工作",
+    "acceptedEn": ["job"]
+  },
+  {
+    "id": 124,
+    "en": "lock",
+    "zh": "鎖住",
+    "acceptedEn": ["lock"]
+  },
+  {
+    "id": 125,
+    "en": "keep",
+    "zh": "保持",
+    "acceptedEn": ["keep"]
+  },
+  {
+    "id": 126,
+    "en": "logsheet",
+    "zh": "工作紀錄",
+    "acceptedEn": ["logsheet"]
+  },
+  {
+    "id": 127,
+    "en": "keyboard",
+    "zh": "鍵盤",
+    "acceptedEn": ["keyboard"]
+  },
+  {
+    "id": 128,
+    "en": "lose",
+    "zh": "遺失",
+    "acceptedEn": ["lose"]
+  },
+  {
+    "id": 129,
+    "en": "label",
+    "zh": "標籤",
+    "acceptedEn": ["label"]
+  },
+  {
+    "id": 130,
+    "en": "lot",
+    "zh": "批貨",
+    "acceptedEn": ["lot"]
+  },
+  {
+    "id": 131,
+    "en": "laboratory",
+    "zh": "實驗室",
+    "acceptedEn": ["laboratory"]
+  },
+  {
+    "id": 132,
+    "en": "machine",
+    "zh": "機器",
+    "acceptedEn": ["machine"]
+  },
+  {
+    "id": 133,
+    "en": "leader",
+    "zh": "組長",
+    "acceptedEn": ["leader"]
+  },
+  {
+    "id": 134,
+    "en": "maintain",
+    "zh": "維護",
+    "acceptedEn": ["maintain"]
+  },
+  {
+    "id": 135,
+    "en": "learn",
+    "zh": "學習",
+    "acceptedEn": ["learn"]
+  },
+  {
+    "id": 136,
+    "en": "manual",
+    "zh": "手動的",
+    "acceptedEn": ["manual"]
+  },
+  {
+    "id": 137,
+    "en": "level",
+    "zh": "程度",
+    "acceptedEn": ["level"]
+  },
+  {
+    "id": 138,
+    "en": "manufacture",
+    "zh": "製造",
+    "acceptedEn": ["manufacture"]
+  },
+  {
+    "id": 139,
+    "en": "lift",
+    "zh": "抬起、舉起",
+    "acceptedEn": ["lift"]
+  },
+  {
+    "id": 140,
+    "en": "mark",
+    "zh": "記號",
+    "acceptedEn": ["mark"]
+  },
+  {
+    "id": 141,
+    "en": "light",
+    "zh": "光",
+    "acceptedEn": ["light"]
+  },
+  {
+    "id": 142,
+    "en": "line",
+    "zh": "直線",
+    "acceptedEn": ["line"]
+  },
+  {
+    "id": 143,
+    "en": "mask",
+    "zh": "光罩、口罩",
+    "acceptedEn": ["mask"]
+  },
+  {
+    "id": 144,
+    "en": "link",
+    "zh": "連結",
+    "acceptedEn": ["link"]
+  },
+  {
+    "id": 145,
+    "en": "list",
+    "zh": "清單",
+    "acceptedEn": ["list"]
+  },
+  {
+    "id": 146,
+    "en": "material",
+    "zh": "原料",
+    "acceptedEn": ["material"]
+  },
+  {
+    "id": 147,
+    "en": "liquid",
+    "zh": "液體",
+    "acceptedEn": ["liquid"]
+  },
+  {
+    "id": 148,
+    "en": "measure",
+    "zh": "量測",
+    "acceptedEn": ["measure"]
+  },
+  {
+    "id": 149,
+    "en": "mechanical",
+    "zh": "機械的",
+    "acceptedEn": ["mechanical"]
+  },
+  {
+    "id": 150,
+    "en": "merge",
+    "zh": "合併",
+    "acceptedEn": ["merge"]
+  },
+  {
+    "id": 151,
+    "en": "message",
+    "zh": "訊息",
+    "acceptedEn": ["message"]
+  },
+  {
+    "id": 152,
+    "en": "over time",
+    "zh": "加班",
+    "acceptedEn": ["over time"]
+  },
+  {
+    "id": 153,
+    "en": "metal",
+    "zh": "金屬",
+    "acceptedEn": ["metal"]
+  },
+  {
+    "id": 154,
+    "en": "miss-operation",
+    "zh": "錯誤動作",
+    "acceptedEn": ["miss-operation"]
+  },
+  {
+    "id": 155,
+    "en": "monitor",
+    "zh": "監視器、測機",
+    "acceptedEn": ["monitor"]
+  },
+  {
+    "id": 156,
+    "en": "monthly",
+    "zh": "每月的",
+    "acceptedEn": ["monthly"]
+  },
+  {
+    "id": 157,
+    "en": "more",
+    "zh": "更多的",
+    "acceptedEn": ["more"]
+  },
+  {
+    "id": 158,
+    "en": "move",
+    "zh": "移動(n.)產出",
+    "acceptedEn": ["move"]
+  },
+  {
+    "id": 159,
+    "en": "new",
+    "zh": "新的",
+    "acceptedEn": ["new"]
+  },
+  {
+    "id": 160,
+    "en": "normal",
+    "zh": "正常的",
+    "acceptedEn": ["normal"]
+  },
+  {
+    "id": 161,
+    "en": "note",
+    "zh": "註解",
+    "acceptedEn": ["note"]
+  },
+  {
+    "id": 162,
+    "en": "notice",
+    "zh": "通知",
+    "acceptedEn": ["inform", "notice"]
+  },
+  {
+    "id": 163,
+    "en": "number",
+    "zh": "號碼",
+    "acceptedEn": ["number"]
+  },
+  {
+    "id": 164,
+    "en": "office",
+    "zh": "辦公室",
+    "acceptedEn": ["office"]
+  },
+  {
+    "id": 165,
+    "en": "off-line",
+    "zh": "離線的",
+    "acceptedEn": ["off-line"]
+  },
+  {
+    "id": 166,
+    "en": "on time",
+    "zh": "準時",
+    "acceptedEn": ["on time"]
+  },
+  {
+    "id": 167,
+    "en": "on-line",
+    "zh": "在線的",
+    "acceptedEn": ["on-line"]
+  },
+  {
+    "id": 168,
+    "en": "operation",
+    "zh": "操作",
+    "acceptedEn": ["operation"]
+  },
+  {
+    "id": 169,
+    "en": "output",
+    "zh": "輸出",
+    "acceptedEn": ["output"]
+  },
+  {
+    "id": 170,
+    "en": "oven",
+    "zh": "烤箱",
+    "acceptedEn": ["oven"]
+  },
+  {
+    "id": 171,
+    "en": "page",
+    "zh": "頁數",
+    "acceptedEn": ["page"]
+  },
+  {
+    "id": 172,
+    "en": "paper",
+    "zh": "紙張",
+    "acceptedEn": ["paper"]
+  },
+  {
+    "id": 173,
+    "en": "parameter",
+    "zh": "參數",
+    "acceptedEn": ["parameter"]
+  },
+  {
+    "id": 174,
+    "en": "part",
+    "zh": "零件",
+    "acceptedEn": ["part"]
+  },
+  {
+    "id": 175,
+    "en": "particle",
+    "zh": "微粒",
+    "acceptedEn": ["particle"]
+  },
+  {
+    "id": 176,
+    "en": "pass",
+    "zh": "合格",
+    "acceptedEn": ["pass"]
+  },
+  {
+    "id": 177,
+    "en": "password",
+    "zh": "密碼",
+    "acceptedEn": ["password"]
+  },
+  {
+    "id": 178,
+    "en": "perfect",
+    "zh": "完美的",
+    "acceptedEn": ["perfect"]
+  },
+  {
+    "id": 179,
+    "en": "personal",
+    "zh": "個人的",
+    "acceptedEn": ["personal"]
+  },
+  {
+    "id": 180,
+    "en": "phase",
+    "zh": "階段",
+    "acceptedEn": ["phase"]
+  },
+  {
+    "id": 181,
+    "en": "photo",
+    "zh": "相片",
+    "acceptedEn": ["photo"]
+  },
+  {
+    "id": 182,
+    "en": "plan",
+    "zh": "計劃",
+    "acceptedEn": ["plan"]
+  },
+  {
+    "id": 183,
+    "en": "plus(prep.)",
+    "zh": "加上",
+    "acceptedEn": ["plus(prep.)"]
+  },
+  {
+    "id": 184,
+    "en": "pod",
+    "zh": "晶片傳送盒",
+    "acceptedEn": ["pod"]
+  },
+  {
+    "id": 185,
+    "en": "point",
+    "zh": "點",
+    "acceptedEn": ["point"]
+  },
+  {
+    "id": 186,
+    "en": "position",
+    "zh": "位置",
+    "acceptedEn": ["location", "position"]
+  },
+  {
+    "id": 187,
+    "en": "positive",
+    "zh": "正向的",
+    "acceptedEn": ["positive"]
+  },
+  {
+    "id": 188,
+    "en": "postpone",
+    "zh": "延期",
+    "acceptedEn": ["postpone"]
+  },
+  {
+    "id": 189,
+    "en": "power",
+    "zh": "力量",
+    "acceptedEn": ["power"]
+  },
+  {
+    "id": 190,
+    "en": "record",
+    "zh": "記錄",
+    "acceptedEn": ["record"]
+  },
+  {
+    "id": 191,
+    "en": "practice",
+    "zh": "練習",
+    "acceptedEn": ["practice"]
+  },
+  {
+    "id": 192,
+    "en": "recover",
+    "zh": "復機",
+    "acceptedEn": ["recover"]
+  },
+  {
+    "id": 193,
+    "en": "prepare",
+    "zh": "準備",
+    "acceptedEn": ["prepare"]
+  },
+  {
+    "id": 194,
+    "en": "release",
+    "zh": "釋放",
+    "acceptedEn": ["release"]
+  },
+  {
+    "id": 195,
+    "en": "press",
+    "zh": "按下",
+    "acceptedEn": ["press"]
+  },
+  {
+    "id": 196,
+    "en": "remark",
+    "zh": "註記",
+    "acceptedEn": ["remark"]
+  },
+  {
+    "id": 197,
+    "en": "pressure",
+    "zh": "壓力",
+    "acceptedEn": ["pressure"]
+  },
+  {
+    "id": 198,
+    "en": "remind",
+    "zh": "提醒",
+    "acceptedEn": ["remind"]
+  },
+  {
+    "id": 199,
+    "en": "preview",
+    "zh": "預覽",
+    "acceptedEn": ["preview"]
+  },
+  {
+    "id": 200,
+    "en": "remove",
+    "zh": "移開",
+    "acceptedEn": ["remove"]
+  },
+  {
+    "id": 201,
+    "en": "price",
+    "zh": "價格",
+    "acceptedEn": ["price"]
+  },
+  {
+    "id": 202,
+    "en": "repair",
+    "zh": "修理",
+    "acceptedEn": ["repair"]
+  },
+  {
+    "id": 203,
+    "en": "print",
+    "zh": "列印",
+    "acceptedEn": ["print"]
+  },
+  {
+    "id": 204,
+    "en": "report",
+    "zh": "報告",
+    "acceptedEn": ["report"]
+  },
+  {
+    "id": 205,
+    "en": "priority",
+    "zh": "優先順序",
+    "acceptedEn": ["priority"]
+  },
+  {
+    "id": 206,
+    "en": "reset",
+    "zh": "重設",
+    "acceptedEn": ["reset"]
+  },
+  {
+    "id": 207,
+    "en": "process",
+    "zh": "過程、流程",
+    "acceptedEn": ["process"]
+  },
+  {
+    "id": 208,
+    "en": "rework",
+    "zh": "重做",
+    "acceptedEn": ["rework"]
+  },
+  {
+    "id": 209,
+    "en": "product",
+    "zh": "產品",
+    "acceptedEn": ["product"]
+  },
+  {
+    "id": 210,
+    "en": "route",
+    "zh": "路線",
+    "acceptedEn": ["route"]
+  },
+  {
+    "id": 211,
+    "en": "protect",
+    "zh": "保護",
+    "acceptedEn": ["protect"]
+  },
+  {
+    "id": 212,
+    "en": "rule",
+    "zh": "規則",
+    "acceptedEn": ["rule"]
+  },
+  {
+    "id": 213,
+    "en": "purge",
+    "zh": "清除",
+    "acceptedEn": ["clear", "purge"]
+  },
+  {
+    "id": 214,
+    "en": "run",
+    "zh": "運轉、跑",
+    "acceptedEn": ["run"]
+  },
+  {
+    "id": 215,
+    "en": "push",
+    "zh": "推進",
+    "acceptedEn": ["push"]
+  },
+  {
+    "id": 216,
+    "en": "run-card",
+    "zh": "流程卡",
+    "acceptedEn": ["run-card"]
+  },
+  {
+    "id": 217,
+    "en": "quality",
+    "zh": "品質",
+    "acceptedEn": ["quality"]
+  },
+  {
+    "id": 218,
+    "en": "S.O.P / Standard OperatingProcedures",
+    "zh": "標準作業程序",
+    "acceptedEn": ["S.O.P / Standard OperatingProcedures"]
+  },
+  {
+    "id": 219,
+    "en": "quantity",
+    "zh": "數量",
+    "acceptedEn": ["quantity"]
+  },
+  {
+    "id": 220,
+    "en": "safe",
+    "zh": "安全的",
+    "acceptedEn": ["safe"]
+  },
+  {
+    "id": 221,
+    "en": "rate",
+    "zh": "比率",
+    "acceptedEn": ["rate"]
+  },
+  {
+    "id": 222,
+    "en": "same",
+    "zh": "相同的",
+    "acceptedEn": ["same"]
+  },
+  {
+    "id": 223,
+    "en": "re-certify",
+    "zh": "重新認證",
+    "acceptedEn": ["re-certify"]
+  },
+  {
+    "id": 224,
+    "en": "save",
+    "zh": "儲存",
+    "acceptedEn": ["save"]
+  },
+  {
+    "id": 225,
+    "en": "recipe",
+    "zh": "食譜、處方程式",
+    "acceptedEn": ["recipe"]
+  },
+  {
+    "id": 226,
+    "en": "scrap",
+    "zh": "報廢",
+    "acceptedEn": ["scrap"]
+  },
+  {
+    "id": 227,
+    "en": "scratch (v.）",
+    "zh": "刮傷",
+    "acceptedEn": ["scratch (v.）"]
+  },
+  {
+    "id": 228,
+    "en": "station",
+    "zh": "站",
+    "acceptedEn": ["station"]
+  },
+  {
+    "id": 229,
+    "en": "screen",
+    "zh": "螢幕",
+    "acceptedEn": ["screen"]
+  },
+  {
+    "id": 230,
+    "en": "status",
+    "zh": "狀況",
+    "acceptedEn": ["status"]
+  },
+  {
+    "id": 231,
+    "en": "select",
+    "zh": "選擇",
+    "acceptedEn": ["select"]
+  },
+  {
+    "id": 232,
+    "en": "step",
+    "zh": "步驟",
+    "acceptedEn": ["step"]
+  },
+  {
+    "id": 233,
+    "en": "semiconductor",
+    "zh": "半導體",
+    "acceptedEn": ["semiconductor"]
+  },
+  {
+    "id": 234,
+    "en": "stocker",
+    "zh": "儲存櫃",
+    "acceptedEn": ["stocker"]
+  },
+  {
+    "id": 235,
+    "en": "service",
+    "zh": "服務",
+    "acceptedEn": ["service"]
+  },
+  {
+    "id": 236,
+    "en": "success",
+    "zh": "成功",
+    "acceptedEn": ["success"]
+  },
+  {
+    "id": 237,
+    "en": "sheet",
+    "zh": "表單",
+    "acceptedEn": ["sheet"]
+  },
+  {
+    "id": 238,
+    "en": "super",
+    "zh": "超級的",
+    "acceptedEn": ["super"]
+  },
+  {
+    "id": 239,
+    "en": "shift",
+    "zh": "班次",
+    "acceptedEn": ["shift"]
+  },
+  {
+    "id": 240,
+    "en": "super hot run",
+    "zh": "超級急件",
+    "acceptedEn": ["super hot run"]
+  },
+  {
+    "id": 241,
+    "en": "show",
+    "zh": "顯示",
+    "acceptedEn": ["show"]
+  },
+  {
+    "id": 242,
+    "en": "supervisor",
+    "zh": "監督者",
+    "acceptedEn": ["supervisor"]
+  },
+  {
+    "id": 243,
+    "en": "shuttle",
+    "zh": "接駁車",
+    "acceptedEn": ["shuttle"]
+  },
+  {
+    "id": 244,
+    "en": "support",
+    "zh": "支援",
+    "acceptedEn": ["backup", "support"]
+  },
+  {
+    "id": 245,
+    "en": "skip",
+    "zh": "跳過",
+    "acceptedEn": ["skip"]
+  },
+  {
+    "id": 246,
+    "en": "switch",
+    "zh": "開關",
+    "acceptedEn": ["switch"]
+  },
+  {
+    "id": 247,
+    "en": "sorter",
+    "zh": "排序機、分類機",
+    "acceptedEn": ["sorter"]
+  },
+  {
+    "id": 248,
+    "en": "system",
+    "zh": "系統",
+    "acceptedEn": ["system"]
+  },
+  {
+    "id": 249,
+    "en": "source",
+    "zh": "來源",
+    "acceptedEn": ["source"]
+  },
+  {
+    "id": 250,
+    "en": "tag",
+    "zh": "標籤(v.)標註",
+    "acceptedEn": ["tag"]
+  },
+  {
+    "id": 251,
+    "en": "Spec. / specification",
+    "zh": "規格",
+    "acceptedEn": ["Spec. / specification"]
+  },
+  {
+    "id": 252,
+    "en": "take leave",
+    "zh": "請假",
+    "acceptedEn": ["take leave"]
+  },
+  {
+    "id": 253,
+    "en": "speed",
+    "zh": "速度",
+    "acceptedEn": ["speed"]
+  },
+  {
+    "id": 254,
+    "en": "tape",
+    "zh": "膠帶",
+    "acceptedEn": ["tape"]
+  },
+  {
+    "id": 255,
+    "en": "split",
+    "zh": "分帳、分批",
+    "acceptedEn": ["split"]
+  },
+  {
+    "id": 256,
+    "en": "target",
+    "zh": "目標",
+    "acceptedEn": ["target"]
+  },
+  {
+    "id": 257,
+    "en": "stage",
+    "zh": "站別、階段",
+    "acceptedEn": ["stage"]
+  },
+  {
+    "id": 258,
+    "en": "technician",
+    "zh": "技術員",
+    "acceptedEn": ["technician"]
+  },
+  {
+    "id": 259,
+    "en": "standard",
+    "zh": "標準",
+    "acceptedEn": ["standard"]
+  },
+  {
+    "id": 260,
+    "en": "telephone",
+    "zh": "電話",
+    "acceptedEn": ["telephone"]
+  },
+  {
+    "id": 261,
+    "en": "standby",
+    "zh": "等待",
+    "acceptedEn": ["standby", "waiting"]
+  },
+  {
+    "id": 262,
+    "en": "temperature",
+    "zh": "溫度",
+    "acceptedEn": ["temperature"]
+  },
+  {
+    "id": 263,
+    "en": "start",
+    "zh": "啟動",
+    "acceptedEn": ["start"]
+  },
+  {
+    "id": 264,
+    "en": "thickness",
+    "zh": "厚度",
+    "acceptedEn": ["thickness"]
+  },
+  {
+    "id": 265,
+    "en": "thin film",
+    "zh": "薄膜製程",
+    "acceptedEn": ["thin film"]
+  },
+  {
+    "id": 266,
+    "en": "window",
+    "zh": "視窗",
+    "acceptedEn": ["window"]
+  },
+  {
+    "id": 267,
+    "en": "time",
+    "zh": "時間",
+    "acceptedEn": ["time"]
+  },
+  {
+    "id": 268,
+    "en": "yield",
+    "zh": "良率",
+    "acceptedEn": ["yield"]
+  },
+  {
+    "id": 269,
+    "en": "title",
+    "zh": "標題",
+    "acceptedEn": ["title"]
+  },
+  {
+    "id": 270,
+    "en": "zero",
+    "zh": "零",
+    "acceptedEn": ["zero"]
+  },
+  {
+    "id": 271,
+    "en": "top",
+    "zh": "顶端",
+    "acceptedEn": ["top"]
+  },
+  {
+    "id": 272,
+    "en": "track",
+    "zh": "追蹤",
+    "acceptedEn": ["track"]
+  },
+  {
+    "id": 273,
+    "en": "training",
+    "zh": "訓練",
+    "acceptedEn": ["training"]
+  },
+  {
+    "id": 274,
+    "en": "trend",
+    "zh": "趨勢",
+    "acceptedEn": ["trend"]
+  },
+  {
+    "id": 275,
+    "en": "tune",
+    "zh": "調整",
+    "acceptedEn": ["tune"]
+  },
+  {
+    "id": 276,
+    "en": "turn rate",
+    "zh": "週轉率",
+    "acceptedEn": ["turn rate"]
+  },
+  {
+    "id": 277,
+    "en": "unload",
+    "zh": "下貨、卸載",
+    "acceptedEn": ["unload"]
+  },
+  {
+    "id": 278,
+    "en": "use",
+    "zh": "使用",
+    "acceptedEn": ["use"]
+  },
+  {
+    "id": 279,
+    "en": "username",
+    "zh": "使用者名稱",
+    "acceptedEn": ["username"]
+  },
+  {
+    "id": 280,
+    "en": "vendor",
+    "zh": "廠商",
+    "acceptedEn": ["vendor"]
+  },
+  {
+    "id": 281,
+    "en": "view",
+    "zh": "查看",
+    "acceptedEn": ["view"]
+  },
+  {
+    "id": 282,
+    "en": "wafer",
+    "zh": "晶圆",
+    "acceptedEn": ["wafer"]
+  },
+  {
+    "id": 283,
+    "en": "waiting",
+    "zh": "等待",
+    "acceptedEn": ["standby", "waiting"]
+  },
+  {
+    "id": 284,
+    "en": "warning",
+    "zh": "警告",
+    "acceptedEn": ["warning"]
+  },
+  {
+    "id": 285,
+    "en": "weekly",
+    "zh": "每週地",
+    "acceptedEn": ["weekly"]
+  },
+  {
+    "id": 286,
+    "en": "wet",
+    "zh": "濕的",
+    "acceptedEn": ["wet"]
+  }
+]

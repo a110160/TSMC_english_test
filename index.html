@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>英中翻譯測驗</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="hero">
+        <span class="eyebrow">Vocabulary Sprint</span>
+        <h1>英中翻譯測驗</h1>
+        <p>手機優先卡片式測驗。每次都會重排完整題庫，做到最後一題才結束。</p>
+        <div class="status" data-app-status>題庫準備中...</div>
+      </header>
+
+      <section class="panel launcher" data-launcher>
+        <h2 class="section-title">選擇模式</h2>
+        <div class="mode-grid">
+          <button class="mode-button" data-mode="en-to-zh" type="button" disabled>
+            <span class="mode-button-title">英翻中</span>
+            <span class="mode-button-copy">題目顯示英文，輸入中文答案，送出後立即判定。</span>
+          </button>
+          <button class="mode-button" data-mode="zh-to-en" type="button" disabled>
+            <span class="mode-button-title">中翻英</span>
+            <span class="mode-button-copy">題目顯示中文，輸入英文答案，支援同中文多個英文正解。</span>
+          </button>
+        </div>
+      </section>
+
+      <section class="panel quiz-panel" data-quiz-panel hidden>
+        <div class="quiz-meta">
+          <span class="mode-chip" data-current-mode>英翻中</span>
+          <div class="quiz-meta-actions">
+            <button class="ghost-button compact-button" data-back-to-launcher type="button">返回模式</button>
+            <button class="ghost-button compact-button" data-restart type="button">重新測驗</button>
+          </div>
+        </div>
+
+        <div class="question-label" data-question-label>英文題目</div>
+        <p class="question-text" data-question-text></p>
+
+        <div class="answer-block">
+          <label for="answer-input" data-answer-hint>輸入中文答案</label>
+          <input id="answer-input" class="answer-input" data-answer-input type="text" autocomplete="off" spellcheck="false" />
+        </div>
+
+        <div class="feedback" data-feedback hidden></div>
+
+        <div class="actions">
+          <button class="action-button" data-submit type="button">送出</button>
+          <button class="ghost-button" data-next type="button">送出答案</button>
+        </div>
+      </section>
+
+      <section class="panel completion-panel" data-completion-panel hidden>
+        <h2>本輪完成</h2>
+        <p data-completion-summary></p>
+        <div class="completion-actions">
+          <button class="ghost-button" data-back-to-launcher type="button">返回模式選擇</button>
+          <button class="action-button" data-restart type="button">重新測驗</button>
+        </div>
+      </section>
+    </main>
+
+    <div class="progress-float" data-progress>0/0</div>
+
+    <script src="./quiz-core.js"></script>
+    <script src="./questions-data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
